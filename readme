@@ -1,0 +1,2 @@
+Train = password->1234567
+Bus = user->admin   ; password -> pass
